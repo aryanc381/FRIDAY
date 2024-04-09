@@ -30,3 +30,6 @@ The mission of Friday is to create a personalized virtual Artificial Intelligenc
 
 ## Inspo
 See my inspiration [Jarvis with Tony](https://www.youtube.com/watch?time_continue=93&v=Zg_nD_x0bgM&embeds_referring_euri=https%3A%2F%2Fwww.google.com%2Fsearch%3Fsca_esv%3Db93ed2d8a499a99a%26sca_upv%3D1%26sxsrf%3DACQVn08YUuAw2XPSnGo7BpFMT8PD_vendw%3A1712648187758%26q%3Diron%2Bm&source_ve_path=Mjg2NjY&feature=emb_logo)
+
+## Conclusion 
+Friday is supposed to be set and in use as soon as possible and furnished by 4th of July 2024. 
