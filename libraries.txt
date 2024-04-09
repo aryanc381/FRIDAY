@@ -1,0 +1,8 @@
+speech_recognition
+win32com.client
+webbrowser
+os
+openai
+datetime
+pyttsx3
+wikipedia
